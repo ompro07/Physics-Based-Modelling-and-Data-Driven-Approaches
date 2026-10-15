@@ -1,7 +1,5 @@
 # Physics-Based Modelling and Data-Driven Approaches
 
-This repository contains the course material for the **HEREON Summer School 2026: Multifunctional and Smart Coatings for Corrosion Protection**.
-
 Begin the course with the notebook:
 
 `01_Python_Introduction.ipynb`
